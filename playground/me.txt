@@ -1,1 +1,5 @@
-erase all text
+{{#user}
+Name: Harshit Sharam
+Skills: HTML, CSS, JS, Next.js
+Email: harshitsharma8750@gmail.com
+{{/user}}
